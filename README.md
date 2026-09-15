@@ -32,12 +32,12 @@
   	![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0db4f)
 	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 	![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
- 
 
 <br>   
     
 - **Front-End Development**:
 
+	![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 	![REACT](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)
 	![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 	![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,20 +51,16 @@
 	![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 	![SASS](https://img.shields.io/badge/Sass-cd6799?style=for-the-badge&logo=sass&logoColor=white)
 
-
-
-
 <br>
 
 - **Back-End Development**:
 
 	![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 	![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-	![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 	![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
 	![NODE](https://img.shields.io/badge/Node-68a063?style=for-the-badge&logo=nodedotjs&logoColor=black)
 	![EXPRESS](https://img.shields.io/badge/express-gray?style=for-the-badge&logo=express&logoColor=white)
-
+	![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 <br>
 
@@ -82,7 +78,6 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 <br>
 
 - **Extras**:
@@ -91,9 +86,6 @@
 	![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![INSOMNIA](https://img.shields.io/badge/insomnia-3E00C0?style=for-the-badge&logo=insomnia&logoColor=white)
-
-
-
 
 <br>
 <br>
