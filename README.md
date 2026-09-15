@@ -1,48 +1,55 @@
 	
-### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hi, I'm CarlosCoDev<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+### <picture><img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30"></picture>	Hi, I'm CarlosCoDev<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 
 <br><br><br><br>
 
-- I am a graduate of Mechatronic Engineering and now trainee developer.
-- I want to participate in amazing projects and make a singular contribution in them.
-- I like to solve logic problems [codewars](https://www.codewars.com/users/CarlosCo_Dev) and [codesignal](https://app.codesignal.com/profile/ingcharles26).
-- Take a look at my  [portfolio](https://portfolio-ecru-two-48.vercel.app/), I am open to recommendations.
-- I am open to new opportunities and demonstrate the contribution I can give to the project and the work team.
-- [resume](https://docs.google.com/document/d/19ANMRxSwI_qqS2ZHB_Nt2mtbKhPrPSihQ8pMjf2L0cs/edit)
+- Hi, I am full stack developer.
+- I have experience in React, Nest and Next projects. 
+- I want to improve my skills in creating modern large-scale projects.
+- Bachelor of Mechatronics Engineering and enthusiastic trumpeter.
 
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><span>	Skills</span>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
 
-<p align="center">
+<!-- <p align="center"> -->
 
 - **Languages**:
 
-  ![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0db4f)
-  ![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178c6)
-  ![Python](https://img.shields.io/badge/Python-4b8bbe?style=for-the-badge&logo=python&logoColor=white&labelColor=4b8bbe)
+  	![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178c6)
+  	![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0db4f)
+	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+	![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
  
 
 <br>   
     
 - **Front-End Development**:
 
-  ![REACT](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)
-  ![REDUX](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-cd6799?style=for-the-badge&logo=sass&logoColor=white)
+	![REACT](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)
+	![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+	![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=61DAFB)
+	![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+	![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+	![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+	![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+	![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+	![REDUX](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
+	![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+	![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+	![SASS](https://img.shields.io/badge/Sass-cd6799?style=for-the-badge&logo=sass&logoColor=white)
 
 
 
@@ -51,15 +58,21 @@
 
 - **Back-End Development**:
 
-  ![NODE](https://img.shields.io/badge/Node-68a063?style=for-the-badge&logo=nodedotjs&logoColor=black)
-  ![EXPRESS](https://img.shields.io/badge/express-gray?style=for-the-badge&logo=express&logoColor=white)
+	![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+	![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+	![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+	![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
+	![NODE](https://img.shields.io/badge/Node-68a063?style=for-the-badge&logo=nodedotjs&logoColor=black)
+	![EXPRESS](https://img.shields.io/badge/express-gray?style=for-the-badge&logo=express&logoColor=white)
 
 
 <br>
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+	![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+	![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+	![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
@@ -74,7 +87,8 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+	![TablePlus](https://img.shields.io/badge/TablePlus-000000?style=for-the-badge&logo=tableplus&logoColor=2FA86C)
+	![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![INSOMNIA](https://img.shields.io/badge/insomnia-3E00C0?style=for-the-badge&logo=insomnia&logoColor=white)
 
@@ -82,13 +96,11 @@
 
 
 <br>
-
+<br>
 <br>
 
-### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b>Let's Connect..!</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><span>	Let's Connect..!</span>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 <br>
 <div align='left'>
 	<ul>
